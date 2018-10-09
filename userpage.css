@@ -3,42 +3,46 @@
 
 
  body {
-	background-color: #ff8000;
+	background-color: #301700;
 }
 
 h1 {
 	color: #e6e6e6;
 	font-family: Francois One;
+	font-size: 40px;
 	text-align: left;
+	text-transform: uppercase;
 }
 
 h2 {
 	color: #e6e6e6;
 	font-family: Francois One;
+	font-size: 19px;
 	text-align: left;
+	margin: -4%, 0, 0, 0, ;
 }
 
 h3 {
 	color: #e6e6e6;
 	font-family: Francois One;
+		font-size: 16px;
 	text-align: left;
 }
 
 
 a {
-	color: #4c4c4c;
+	color: #e09d42;
 	font-family: Lato;
 	display: block;
 	text-align: left;
-	font-size: 20px;
-	padding: 10em, 10em, 10em, 10em;
+	font-size: 19px;
+	padding: 40px, 40px, 40px, 40px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
 a:hover {
-	color: white;
-	background-color: #4c4c4c;
+	color: #e09d42;
 	padding: 10em, 10em, 10em, 10em;
 }
  
