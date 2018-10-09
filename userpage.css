@@ -1,0 +1,44 @@
+ 
+ @import url('https://fonts.googleapis.com/css?family=Francois+One');
+
+
+ body {
+	background-color: #ff8000;
+}
+
+h1 {
+	color: #e6e6e6;
+	font-family: Francois One;
+	text-align: left;
+}
+
+h2 {
+	color: #e6e6e6;
+	font-family: Francois One;
+	text-align: left;
+}
+
+h3 {
+	color: #e6e6e6;
+	font-family: Francois One;
+	text-align: left;
+}
+
+
+a {
+	color: #4c4c4c;
+	font-family: Lato;
+	display: block;
+	text-align: left;
+	font-size: 20px;
+	padding: 10em, 10em, 10em, 10em;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a:hover {
+	color: white;
+	background-color: #4c4c4c;
+	padding: 10em, 10em, 10em, 10em;
+}
+ 
