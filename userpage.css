@@ -8,41 +8,47 @@
 
 h1 {
 	color: #e6e6e6;
-	font-family: Francois One;
+	font-family: Avenir Next;
 	font-size: 40px;
 	text-align: left;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 h2 {
 	color: #e6e6e6;
-	font-family: Francois One;
-	font-size: 19px;
+	font-family: Avenir Next;
+	font-size: 29px;
 	text-align: left;
 	margin: -4%, 0, 0, 0, ;
+	text-transform: uppercase;
+	text-align: center;
 }
 
 h3 {
 	color: #e6e6e6;
-	font-family: Francois One;
+	font-family: Avenir Next;
 		font-size: 16px;
-	text-align: left;
+	text-align: center;
 }
 
 
 a {
 	color: #e09d42;
-	font-family: Lato;
+	font-family: Avenir Next;
 	display: block;
 	text-align: left;
 	font-size: 19px;
 	padding: 40px, 40px, 40px, 40px;
 	text-decoration: none;
 	text-transform: uppercase;
+	text-align: center;
+	
 }
 
 a:hover {
 	color: #e09d42;
-	padding: 10em, 10em, 10em, 10em;
+	text-align: center;
+	background: white;
 }
  
