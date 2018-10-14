@@ -23,7 +23,9 @@ h2 {
 	margin: -4%, 0, 0, 0, ;
 	text-transform: uppercase;
 	text-align: center;
+	font-weight: bold;
 }
+
 
 h3 {
 	color: #e6e6e6;
@@ -34,7 +36,7 @@ h3 {
 
 
 a {
-	color: #e09d42;
+	color: #f5f7ff;
 	font-family: Avenir Next;
 	display: block;
 	text-align: left;
@@ -43,12 +45,13 @@ a {
 	text-decoration: none;
 	text-transform: uppercase;
 	text-align: center;
-	
+	font-weight: bold;
 }
 
 a:hover {
 	color: #e09d42;
 	text-align: center;
 	background: white;
+	font-weight: bold;
+
 }
- 
